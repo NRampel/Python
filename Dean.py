@@ -1,3 +1,5 @@
+#NOTE: The Discord library and some of these libraries are very new to me, so I am not completely sure if I applied the documentation in the best way possible
+
 import discord 
 from discord.ext import commands 
 import asyncio
