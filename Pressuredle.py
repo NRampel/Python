@@ -1,9 +1,11 @@
+#Note: This code was to help me relearn Python skills, some stuff may or may not be optimal
+
 import random
 import pandas as pd 
 import time 
 from PIL import Image 
 
-#Macro for time waiting between rounds
+#Macro for time waiting between rounds (30 for testing purposes)
 time_wait = 30
 
 #Methods:
@@ -94,6 +96,7 @@ def game_loop(dataframe, max_attempts, chosen_monster, guessed_list=None):
 #Main function to start the game
 def main(): 
     print("NOTE: Pressure and all items associated with it are by Zeal and his devteam\n")
+    print("This project is purely for my own enjoyment, I seek no profit from this\n")
     monster_list = load_monsters()
     if monster_list is None:
         return
