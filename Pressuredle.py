@@ -1,3 +1,5 @@
+#Note: This code was to help me relearn Python skills, some stuff may or may not be optimal
+
 import random
 import pandas as pd 
 import time 
