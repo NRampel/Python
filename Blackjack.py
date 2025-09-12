@@ -1,3 +1,4 @@
+#NOTE: THIS WAS MADE WHEN I WASN'T AS FLUENT WITH PYTHON!
 #Importing relevant modules
 import random
 import time
