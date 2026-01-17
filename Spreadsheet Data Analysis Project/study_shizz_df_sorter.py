@@ -1,3 +1,4 @@
+#ONGOING! THIS PROGRAM IS INCOMPLETE!!!
 from dotenv import load_dotenv
 import pandas as pd
 import gspread 
